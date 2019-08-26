@@ -166,6 +166,8 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
        The fourth industrial revolution is the current  and developing environment in which disruptive technologies and trends such as the Internet of Things (IoT), robotics, virtual reality (VR) and artificial intelligence (AI) are changing the way we live and work.
     https://whatis.techtarget.com/definition/fourth-industrial-revolution
 
+  TechSolve video: https://www.youtube.com/watch?v=5JdIZ631XjI&t
+
     Industry 4.0 is the subset of the fourth industrial revolution[1] that concerns industry.
         Smart Manufacturing
         In essence, industry 4.0 describes the trend towards automation and data exchange in manufacturing technologies and processes which include cyber-physical systems (CPS), the internet of things (IoT), industrial internet of things (IIOT), cloud computing[2][3][4][5], cognitive computing and artificial intelligence.
