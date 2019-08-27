@@ -23,10 +23,11 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
         - hire a firm that made resources available to the companies
       - now, gig it... use an accountant when you need an accountant... without firm overhead
       - need something, get something (Fiver, etc. etc. etc.)
-          - 
+           
   - Internet of Things
     - What is it?
-      - top of gartner hype cycle
+      - [top of gartner hype cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)
+          - [blockchain hype cycle](https://blogs.gartner.com/smarterwithgartner/files/2018/10/BlockchainScenario_Graphics_HypeCycle_v2.png)
     - Current State:
       - Consumer
         - home automation - mostly gimmicky
@@ -42,7 +43,15 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
         - Getting it all correct is challenging
           - from sensor selection and calibration to remote update to scale to robustness to managing complexity and Murphy
           - Standard maturation of new product and services and industries
+    - so what????
+      - lots and lots and lots of data.  what to do with it?
+        - use AI to reason over all the data???????
+      - digital twins
+        - ...
+      - Companies know how to make decisions with data will win
+      - 
     - Disruptions
+          - 
           - 
   - 3D Printing
     - what is subtractive?
@@ -170,3 +179,4 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
         Smart Manufacturing
         In essence, industry 4.0 describes the trend towards automation and data exchange in manufacturing technologies and processes which include cyber-physical systems (CPS), the internet of things (IoT), industrial internet of things (IIOT), cloud computing[2][3][4][5], cognitive computing and artificial intelligence.
     
+## [Gartner's DisruptWell](https://www.gartner.com/smarterwithgartner/6-ways-the-workplace-will-change-in-the-next-10-years/)
