@@ -55,10 +55,21 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
           - 
   - 3D Printing
     - what is subtractive?
-    - what is additive?
+    - what is additive? 
+      - [Types of 3D printing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5872103/table/jfb-09-00017-t001/?report=objectonly)
     - Plastic
     - Metal
     - Bio
+      - [Overview of techniques](https://www.mdpi.com/2076-3417/9/4/811/htm)
+      - Bones
+        - like my new knee
+      - scaffolding
+      - Organs
+      - [3D printed lung](https://www.youtube.com/watch?v=V0rIP_u1JPQ)
+      - what if you printed all the organs?
+      - 
+      - CRISPR
+      - 
     - Digitally Create the Physical
     - Public report on current state of additive
     - Disruptions:
