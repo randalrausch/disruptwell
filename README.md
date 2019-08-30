@@ -11,7 +11,7 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
 - Revolutions
 - We are now in 4th industrial Revolution
   - More productive use of resources
-    - AIr B&B
+    - Air B&B
     - Car sharing
     - renewable energy
       - batteries, transmission, wind, solar economics
@@ -37,43 +37,66 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
         - lots of cost... small wins
         - Big potential
     - Inevetiable future
-      - low cost sensors, bandwidth, cloud compuyting, edge computing, artificial intelligence... able to aquire vast amounts of data, reason on it, and take action
-      - management of complexity
-      - Systems of Systems of Systems optimization
-        - Getting it all correct is challenging
-          - from sensor selection and calibration to remote update to scale to robustness to managing complexity and Murphy
-          - Standard maturation of new product and services and industries
-    - so what????
-      - lots and lots and lots of data.  what to do with it?
-        - What if you had information about the state of all the things around you and you can reason on that data?
-          - Driving Example
-            - something we all understand
-            - if we knew where all the traffic was and when the lights were to turn green
-              - we could catch all the green lights, get there faster, and save fuel.
-          - Manufacturing Example
-            - optimize supply chain.
-            - Less inventory. higher yield. better on-time delivery.  More efficient
-          - Wind Turbines
-          - Power Grid
-      - Model and Predict
-        - digital twins
-        - ...
-      - However... so much data, difficult to make a decision before it's too late.
-        - use AI to reason over all the data???????
-      -  
-      - *Companies that quickly make decisions with data will win*
-
-      - everything will get connected
-        - 5G
-      - security/privacy concerns
-      - lots of jobs for data connectivity, networking, security, etc.
-      - many new business models
-        - smart home, smart city, smart what ever.  
+      - Why now?
         - once it becomes cost effective.... save more money than spend, will really take off
           - and continue to drive that productivity/efficiency curve.
+      - Convergence of technologies
+        - able to aquire vast amounts of data (cost effectively)
+        - Connectivity
+          - 5G = ubiquitious , no cost connection
+          - lots of bandwidth, not much cost
+        - Low cost compute and storage
+          - - low cost sensors, bandwidth, cloud computing, edge computing, low cost storage, ubiquitous connectivity 5G, neuromorphic computing...
+        - Security / Privacy
+          - security will be easy enough to use that people actually use it
+        - Model and Predict
+          - digital twins
+        - Reason on data, and take action
+          - artificial intelligence, streaming analytics,  
+          - 3rd Wave of AI 
+            - handcrafted knowledge, statistical learning, contextual adaptation
+
+        - management of complexity
+          - Systems of Systems of Systems optimization
+    - So what????
+      - lots and lots and lots of data.  what to do with it?
+        - What if you had information about the state of all the things around you and you can reason on that data?
+          - IIoT Productivity examples
+            - Driving Example
+              - something we all understand
+              - if we knew where all the traffic was and when the lights were to turn green
+                - we could catch all the green lights, get there faster, and save fuel.
+            - Manufacturing Example
+              - optimize supply chain.
+              - Less inventory. higher yield. better on-time delivery.  More efficient
+            - Wind Turbines
+            - Power Grid
+
+
     - Disruptions
-          - 
-          - 
+      - many new business models
+        - smart home, smart city, smart what ever.  
+  
+      - 3 Groups will emerge
+        - Unawares
+          - don't bother with industrial internet technologies.  Fade away as competition becomes more productive/efficient
+        - Nice Trys
+          - spend the money to collect data, but continue business as usual with out adapting to the reality the data show
+          - if your business isn't using data to make decisions and adapt, your profitability will and existenace will fade away.
+
+        - Long-Term Winners
+          - discerningly invest to capture data
+          - reason on data, react to data, adapt offerings and business model.  repeat
+          - *Companies that quickly make decisions with data will win*
+
+      - Real Disruption is Business Agility
+        - roll new ideas to world immediately
+        - Test market/business hypotheses in real time at low cost
+
+      - lots of jobs for 
+        - data connectivity, networking, security, AI, statistics, machine learning, cloud and edge development, DevOps
+
+  
   - 3D Printing
     - what is subtractive?
     - what is additive? 
@@ -147,10 +170,6 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
 - Neuromorphic?
   - Computing heat. Bio inspired.  Download Brians into computers.  Non-artificial intelligence? Sentient?
 
-
-
-# Artificial Intelligence
-        3 waves: handcrafted knowledge, statistical learning, contextual adaptation
 
 
 # What will Happen to Jobs
