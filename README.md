@@ -45,11 +45,32 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
           - Standard maturation of new product and services and industries
     - so what????
       - lots and lots and lots of data.  what to do with it?
-        - use AI to reason over all the data???????
-      - digital twins
+        - What if you had information about the state of all the things around you and you can reason on that data?
+          - Driving Example
+            - something we all understand
+            - if we knew where all the traffic was and when the lights were to turn green
+              - we could catch all the green lights, get there faster, and save fuel.
+          - Manufacturing Example
+            - optimize supply chain.
+            - Less inventory. higher yield. better on-time delivery.  More efficient
+          - Wind Turbines
+          - Power Grid
+      - Model and Predict
+        - digital twins
         - ...
-      - Companies know how to make decisions with data will win
-      - 
+      - However... so much data, difficult to make a decision before it's too late.
+        - use AI to reason over all the data???????
+      -  
+      - *Companies that quickly make decisions with data will win*
+
+      - everything will get connected
+        - 5G
+      - security/privacy concerns
+      - lots of jobs for data connectivity, networking, security, etc.
+      - many new business models
+        - smart home, smart city, smart what ever.  
+        - once it becomes cost effective.... save more money than spend, will really take off
+          - and continue to drive that productivity/efficiency curve.
     - Disruptions
           - 
           - 
