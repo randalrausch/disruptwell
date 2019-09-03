@@ -124,6 +124,14 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
       - more complexity to manage
       - Once economics settle out, vast disruption in manufacturing "recycle"
         - totally disrupt tarrifs... do you tax the email of the design file?  will probably shift to taxing the raw materials. which will probably start wars to control the raw materials and powerder processing facilities.
+      - Uber of manufacturing – savior of the middle class
+      - The United States of America
+        - Enabling innovation
+        - Ensuring the talent pipeline / A new workforce foundation
+        - A resilient, robust, and secure manufacturing ecosystem
+        - Fully upgradable – Life Long Learning
+
+
 
 
 
