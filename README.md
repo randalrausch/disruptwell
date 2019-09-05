@@ -7,6 +7,10 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
 - Intro
   - Things change... and always faster than before
   - Drive by need for productivity
+  - Bend the curve... 
+    - draw productivity curves
+    - show what makes revolution
+    - 
 
 - Revolutions
 - We are now in 4th industrial Revolution
@@ -53,13 +57,15 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
           - digital twins
         - Reason on data, and take action
           - artificial intelligence, streaming analytics,  
+          - lots and lots and lots of data.  what to do with it?
+
           - 3rd Wave of AI 
             - handcrafted knowledge, statistical learning, contextual adaptation
 
         - management of complexity
           - Systems of Systems of Systems optimization
     - So what????
-      - lots and lots and lots of data.  what to do with it?
+      - these technologies have converged... so what do we do with them?
         - What if you had information about the state of all the things around you and you can reason on that data?
           - IIoT Productivity examples
             - Driving Example
@@ -89,9 +95,13 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
           - reason on data, react to data, adapt offerings and business model.  repeat
           - *Companies that quickly make decisions with data will win*
 
-      - Real Disruption is Business Agility
+      - Real Disruption of the Internet of Things is Business Agility
+        - shift in how business is done
         - roll new ideas to world immediately
         - Test market/business hypotheses in real time at low cost
+        - focus resources on what matters
+        - adapt business as market changes
+        - 
 
       - lots of jobs for 
         - data connectivity, networking, security, AI, statistics, machine learning, cloud and edge development, DevOps
