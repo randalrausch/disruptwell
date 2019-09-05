@@ -124,6 +124,14 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
       - 
       - CRISPR
       - 
+      - Kurfess on AM
+        - Hybrid product / service manufacturing models supporting next generation workforce, capabilities and market place.
+        - Manufacturing Uber model – customer connected / born qualified / expertise
+        - Data driven commodity based artificial intelligence will increase human productivity and efficiency making the U.S. manufacturing base resilient
+        - Distributed manufacturing will democratize technology, ensuring economic prosperity and national security
+
+      -
+      
     - Digitally Create the Physical
     - Public report on current state of additive
     - Disruptions:
@@ -134,6 +142,14 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
       - more complexity to manage
       - Once economics settle out, vast disruption in manufacturing "recycle"
         - totally disrupt tarrifs... do you tax the email of the design file?  will probably shift to taxing the raw materials. which will probably start wars to control the raw materials and powerder processing facilities.
+      - Uber of manufacturing – savior of the middle class
+      - The United States of America
+        - Enabling innovation
+        - Ensuring the talent pipeline / A new workforce foundation
+        - A resilient, robust, and secure manufacturing ecosystem
+        - Fully upgradable – Life Long Learning
+
+
 
 
 
