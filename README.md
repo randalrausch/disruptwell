@@ -12,15 +12,25 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
     - show what makes revolution
     - 
 
-- Revolutions
-- We are now in 4th industrial Revolution
-  - More productive use of resources
+# Revolutions
+## 4th Industrial Revolution
+  - Describe 1-4
+  - We are now in 4th industrial Revolution
+  - 
+## More productive use of assets/resources
+  - Real Estate Sharing
     - Air B&B
+  - Car Sharing
     - Car sharing
+  - Electrons / Energy
     - renewable energy
       - batteries, transmission, wind, solar economics
       - once we figure out how to share it in an efficient economy, ... 
       - block chain for energy and commodity trading
+  - Gig Economy  
+
+## 150 Gig Economy Apps...
+  yup, it's real now.
     - Gig Economy
       - use to be if a company needed a graphic artist, or an accountant, administrative assistant, designer, or a what ever
         - hire them
@@ -28,10 +38,52 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
       - now, gig it... use an accountant when you need an accountant... without firm overhead
       - need something, get something (Fiver, etc. etc. etc.)
            
-  - Internet of Things
-    - What is it?
-      - [top of gartner hype cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)
-          - [blockchain hype cycle](https://blogs.gartner.com/smarterwithgartner/files/2018/10/BlockchainScenario_Graphics_HypeCycle_v2.png)
+           
+# Internet of Things
+## What is it?
+
+## Why now?
+  - Convergence of technologies
+    - able to aquire vast amounts of data (cost effectively)
+    - Connectivity
+      - 5G = ubiquitious , no cost connection
+      - lots of bandwidth, not much cost
+    - Low cost compute and storage
+      - - low cost sensors, bandwidth, cloud computing, edge computing, low cost storage, ubiquitous connectivity 5G, neuromorphic computing...
+    - Security / Privacy
+      - security will be easy enough to use that people actually use it
+    - Model and Predict
+      - digital twins
+    - Artifical Intelligence
+      - management of complexity
+        - Systems of Systems of Systems optimization
+       - 3rd Wave of AI 
+          - handcrafted knowledge, statistical learning, contextual adaptation
+
+
+## What's it worth
+What can we do with these technologies?
+  - What if you had information about the state of all the things around you and you can reason on that data?
+    - IIoT Productivity examples
+      - Driving Example
+        - something we all understand
+        - if we knew where all the traffic was and when the lights were to turn green
+          - we could catch all the green lights, get there faster, and save fuel.
+      - Manufacturing Example
+        - optimize supply chain.
+        - Less inventory. higher yield. better on-time delivery.  More efficient
+      - Wind Turbines
+      - Power Grid
+      - Connected Government (Open311)
+      
+## Industrial Internet of Things Value
+  - power of 1% benefits
+  
+
+## Hype Cycle
+   - [top of gartner hype cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)
+     - [blockchain hype cycle](https://blogs.gartner.com/smarterwithgartner/files/2018/10/BlockchainScenario_Graphics_HypeCycle_v2.png)
+  
     - Current State:
       - Consumer
         - home automation - mostly gimmicky
@@ -40,45 +92,12 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
         - 600 platform providers on market
         - lots of cost... small wins
         - Big potential
-    - Inevetiable future
-      - Why now?
-        - once it becomes cost effective.... save more money than spend, will really take off
-          - and continue to drive that productivity/efficiency curve.
-      - Convergence of technologies
-        - able to aquire vast amounts of data (cost effectively)
-        - Connectivity
-          - 5G = ubiquitious , no cost connection
-          - lots of bandwidth, not much cost
-        - Low cost compute and storage
-          - - low cost sensors, bandwidth, cloud computing, edge computing, low cost storage, ubiquitous connectivity 5G, neuromorphic computing...
-        - Security / Privacy
-          - security will be easy enough to use that people actually use it
-        - Model and Predict
-          - digital twins
-        - Reason on data, and take action
-          - artificial intelligence, streaming analytics,  
-          - lots and lots and lots of data.  what to do with it?
 
-          - 3rd Wave of AI 
-            - handcrafted knowledge, statistical learning, contextual adaptation
+    - Consumers buying gimmicks, but novelty is wearing off
+    - Many companies investing... but not realizing returns
+      - but some are
 
-        - management of complexity
-          - Systems of Systems of Systems optimization
-    - So what????
-      - these technologies have converged... so what do we do with them?
-        - What if you had information about the state of all the things around you and you can reason on that data?
-          - IIoT Productivity examples
-            - Driving Example
-              - something we all understand
-              - if we knew where all the traffic was and when the lights were to turn green
-                - we could catch all the green lights, get there faster, and save fuel.
-            - Manufacturing Example
-              - optimize supply chain.
-              - Less inventory. higher yield. better on-time delivery.  More efficient
-            - Wind Turbines
-            - Power Grid
-
-
+## IoT Disruptions
     - Disruptions
       - many new business models
         - smart home, smart city, smart what ever.  
@@ -155,7 +174,13 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
 
 
 #  --------- To be organized ----------------------
+    - Reason on data, and take action
+          - artificial intelligence, streaming analytics,  
+          - lots and lots and lots of data.  what to do with it?
 
+
+          - once it becomes cost effective.... save more money than spend, will really take off
+          - and continue to drive that productivity/efficiency curve.
 # Key Points
 - Change will happen, and it will happen exponentially faster
 - The drive for Productivity (Faster, cheaper, more efficiently)
