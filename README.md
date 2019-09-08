@@ -16,29 +16,10 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
 ## 4th Industrial Revolution
   - Describe 1-4
   - We are now in 4th industrial Revolution
-  - 
-## More productive use of assets/resources
-  - Real Estate Sharing
-    - Air B&B
-  - Car Sharing
-    - Car sharing
-  - Electrons / Energy
-    - renewable energy
-      - batteries, transmission, wind, solar economics
-      - once we figure out how to share it in an efficient economy, ... 
-      - block chain for energy and commodity trading
-  - Gig Economy  
+  -      
 
-## 150 Gig Economy Apps...
-  yup, it's real now.
-    - Gig Economy
-      - use to be if a company needed a graphic artist, or an accountant, administrative assistant, designer, or a what ever
-        - hire them
-        - hire a firm that made resources available to the companies
-      - now, gig it... use an accountant when you need an accountant... without firm overhead
-      - need something, get something (Fiver, etc. etc. etc.)
-           
-           
+
+
 # Internet of Things
 ## What is it?
 
@@ -49,11 +30,12 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
       - 5G = ubiquitious , no cost connection
       - lots of bandwidth, not much cost
     - Low cost compute and storage
-      - - low cost sensors, bandwidth, cloud computing, edge computing, low cost storage, ubiquitous connectivity 5G, neuromorphic computing...
+      - low cost sensors, bandwidth, cloud computing, edge computing, low cost storage, ubiquitous connectivity 5G, neuromorphic computing...
     - Security / Privacy
       - security will be easy enough to use that people actually use it
     - Model and Predict
       - digital twins
+  
     - Artifical Intelligence
       - management of complexity
         - Systems of Systems of Systems optimization
@@ -65,7 +47,7 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
 What can we do with these technologies?
   - What if you had information about the state of all the things around you and you can reason on that data?
     - IIoT Productivity examples
-      - Driving Example
+      - Commuting Example
         - something we all understand
         - if we knew where all the traffic was and when the lights were to turn green
           - we could catch all the green lights, get there faster, and save fuel.
@@ -84,37 +66,43 @@ What can we do with these technologies?
    - [top of gartner hype cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)
      - [blockchain hype cycle](https://blogs.gartner.com/smarterwithgartner/files/2018/10/BlockchainScenario_Graphics_HypeCycle_v2.png)
   
-    - Current State:
-      - Consumer
-        - home automation - mostly gimmicky
-          - my mom got new fridge... txts her when door is left open too long. helps save a little energy here.  on consumer side, energy savings costs are less than investment to install sensors, monitors, software, etc.
-      - Industrial Side
-        - 600 platform providers on market
-        - lots of cost... small wins
-        - Big potential
+  - Technology dissappears
+    - My son will never know a time when there wasn’t a smart speaker he could talk to 
+    - I grew up when cell phones and connectivity were just starting and the SMCHS library got its 1st dial up modem. Now, multiple different connections to internet
 
-    - Consumers buying gimmicks, but novelty is wearing off
-    - Many companies investing... but not realizing returns
-      - but some are
+
+  - Current State:
+    - Consumer
+      - home automation - mostly gimmicky
+        - my mom got new fridge... txts her when door is left open too long. helps save a little energy here.  on consumer side, energy savings costs are less than investment to install sensors, monitors, software, etc.
+    - Industrial Side
+      - 600 platform providers on market
+      - lots of cost... small wins
+      - Big potential
+
+  - Consumers buying gimmicks, but novelty is wearing off
+  - Many companies investing... but not realizing returns
+    - but some are
 
 ## IoT Disruptions
     - Disruptions
       - many new business models
         - smart home, smart city, smart what ever.  
   
-      - 3 Groups will emerge
-        - Unawares
-          - don't bother with industrial internet technologies.  Fade away as competition becomes more productive/efficient
-        - Nice Trys
-          - spend the money to collect data, but continue business as usual with out adapting to the reality the data show
-          - if your business isn't using data to make decisions and adapt, your profitability will and existenace will fade away.
+### 3 Groups will emerge
+  - Unawares
+    - don't bother with industrial internet technologies.  Fade away as competition becomes more productive/efficient
+  - Nice Trys
+    - spend the money to collect data, but continue business as usual with out adapting to the reality the data show
+    - if your business isn't using data to make decisions and adapt, your profitability will and existenace will fade away.
 
-        - Long-Term Winners
-          - discerningly invest to capture data
-          - reason on data, react to data, adapt offerings and business model.  repeat
-          - *Companies that quickly make decisions with data will win*
+  - Long-Term Winners
+    - discerningly invest to capture data
+    - reason on data, react to data, adapt offerings and business model.  repeat
+    - *Companies that quickly make decisions with data will win*
 
-      - Real Disruption of the Internet of Things is Business Agility
+- Real Disruption of the Internet of Things:
+  - is Business Agility
         - shift in how business is done
         - roll new ideas to world immediately
         - Test market/business hypotheses in real time at low cost
@@ -126,9 +114,9 @@ What can we do with these technologies?
         - data connectivity, networking, security, AI, statistics, machine learning, cloud and edge development, DevOps
 
   
-  - 3D Printing
+# 3D Printing
     - what is subtractive?
-    - what is additive? 
+## what is additive? 
       - [Types of 3D printing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5872103/table/jfb-09-00017-t001/?report=objectonly)
     - Plastic
     - Metal
@@ -143,17 +131,24 @@ What can we do with these technologies?
       - 
       - CRISPR
       - 
-      - Kurfess on AM
-        - Hybrid product / service manufacturing models supporting next generation workforce, capabilities and market place.
-        - Manufacturing Uber model – customer connected / born qualified / expertise
-        - Data driven commodity based artificial intelligence will increase human productivity and efficiency making the U.S. manufacturing base resilient
-        - Distributed manufacturing will democratize technology, ensuring economic prosperity and national security
-
-      -
       
     - Digitally Create the Physical
-    - Public report on current state of additive
-    - Disruptions:
+## 3D printing techniques
+  - See: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5872103/table/jfb-09-00017-t001/?report=objectonly
+    
+    - DMLM
+    - Electron Beam
+    - Binder Jet
+    - DED
+
+
+## Disruptions:
+  - Distributed manufacturing will democratize technology
+  - Manufacturing Uber model
+  - INternal manufacturing supply chain
+  - tarrifs
+  - Data driven commodity based artificial intelligence will increase human productivity and efficiency making the U.S. manufacturing base resilient
+
       - supply chain... print it where you need it... easier to send an email with the part than it is to send the part
         - This is especially helpful on missions to Mars... FedEx doesn't deliver there.
       - Old design practices don't apply
@@ -171,9 +166,10 @@ What can we do with these technologies?
 
 
 
-
-
+# .
 #  --------- To be organized ----------------------
+North Dakota tops charts for productivity growth: https://www.bls.gov/opub/mlr/2019/article/bls-publishes-experimental-state-level-labor-productivity-measures.htm
+
     - Reason on data, and take action
           - artificial intelligence, streaming analytics,  
           - lots and lots and lots of data.  what to do with it?
@@ -181,8 +177,25 @@ What can we do with these technologies?
 
           - once it becomes cost effective.... save more money than spend, will really take off
           - and continue to drive that productivity/efficiency curve.
+    - Public report on current state of additive
+
+
 # Key Points
 - Change will happen, and it will happen exponentially faster
+- Manufacturing - need to make real stuff
+
+
+# New Economic Model
+    Economic- Keynesian, liberal… growth.  Now to maximize human well being
+    New economic model
+        Shift like… 20th century shifts. keynsiam ism … focus on health and education and gov working with business
+        Reaction against this. (Near liberalism)  Free markets. Freedom individuals. Get governments out of the way
+        New system.. meet basic needs of every human. Live within planetary means. Fairer.  Focus not on growth, but maximizing human well being 
+            
+    Value shift - trigged about new story about how we want to live
+    Limitless growth (planet destroying) becoming less popular with Generation Y/Z
+
+## The Drive for Productivity
 - The drive for Productivity (Faster, cheaper, more efficiently)
   - get more out of
     - person's effort
@@ -197,18 +210,43 @@ What can we do with these technologies?
   - instead of growth at all costs, maximize human well being
   - 
 
-- Manufacturing - need to make real stuff
+More productive use of assets/resources
+
+  Process Innovation
+
+  New Technology
 
 
-# New Economic Model
-    Economic- Keynesian, liberal… growth.  Now to maximize human well being
-    New economic model
-        Shift like… 20th century shifts. keynsiam ism … focus on health and education and gov working with business
-        Reaction against this. (Near liberalism)  Free markets. Freedom individuals. Get governments out of the way
-        New system.. meet basic needs of every human. Live within planetary means. Fairer.  Focus not on growth, but maximizing human well being 
-            
-    Value shift - trigged about new story about how we want to live
-    Limitless growth (planet destroying) becoming less popular with Generation Y/Z
+  - Get more out of existing assets
+    - Real Estate Sharing
+      - AirBnB
+    - Car Sharing
+      - Car sharing
+        - uber
+          - uber eats
+  - Use
+  - New Business models / less overhead
+    - Gig Economy 
+    - online retailing
+
+  - Electrons / Energy
+    - renewable energy
+      - batteries, transmission, wind, solar economics
+      - once we figure out how to share it in an efficient economy, ... 
+      - block chain for energy and commodity trading
+ 
+
+## 150 Gig Economy Apps...
+  yup, it's real now.
+    - Gig Economy
+      - use to be if a company needed a graphic artist, or an accountant, administrative assistant, designer, or a what ever
+        - hire them
+        - hire a firm that made resources available to the companies
+      - now, gig it... use an accountant when you need an accountant... without firm overhead
+      - need something, get something (Fiver, etc. etc. etc.)
+
+
+
 
 
 # Potential Topics
