@@ -5,12 +5,32 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
 
 # Outline
 - Intro
-  - Things change... and always faster than before
-  - Drive by need for productivity
-  - Bend the curve... 
-    - draw productivity curves
-    - show what makes revolution
-    - 
+ - conference about disruptions
+ - Look back to project forward.. establish context.
+
+  - Our world has a constant drive for productivity
+      - take what we've got and get more out of it. Improve our lives.  make things better. More efficient
+
+# World GDP Growth
+ - Zoom out.. look all the way back to year #1 and look at the world in aggregate
+   - some ups and downs, but the net effect is overwhelming positive
+   - Keep in mind, this chart shows growth rate.
+
+# Global GDP per capita
+ - if we look at at the actual number instead of the improvement rate, the shape of the curve shows a more obvious improvement.
+
+ - On the average, the world is always improving.
+   - keep in mind when you get depressed with all the negative press.  The reality is the world is becoming a better place every day when you look at the data on things like:
+     - infant mortality rate
+     - average life span
+     - average GDP per capita
+     - number of people in extreme poverty
+
+    - enjoy a feel good moment and consider that over the last 60 years, the average quality of life for the average person on this planet has improved substantially!
+
+ - but I digress... the point i am trying to make is that, while the world continues to get a little better, a litte more productive, a little more efficient every year, every so often, there are disruptions that rapidly increase the rate of improvement.
+   - We call these revolutions and we are entering a big one now.
+
 
 # Revolutions
 ## 4th Industrial Revolution
@@ -18,6 +38,19 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
   - We are now in 4th industrial Revolution
   -      
 
+- these are magor changes in the global productivity improvement rates.
+- Let's zoom in a little and talk about productivity enhancements over the last few years. 
+  - Let talk about more efficient use of resources.
+# Gig Economy
+
+## 150 Gig Economy Apps...
+  yup, it's real now.
+    - Gig Economy
+      - use to be if a company needed a graphic artist, or an accountant, administrative assistant, designer, or a what ever
+        - hire them
+        - hire a firm that made resources available to the companies
+      - now, gig it... use an accountant when you need an accountant... without firm overhead
+      - need something, get something (Fiver, etc. etc. etc.)
 
 
 # Internet of Things
@@ -180,23 +213,15 @@ North Dakota tops charts for productivity growth: https://www.bls.gov/opub/mlr/2
     - Public report on current state of additive
 
 
-# Key Points
-- Change will happen, and it will happen exponentially faster
-- Manufacturing - need to make real stuff
 
+  - Drive by need for productivity
+  - Bend the curve... 
+    - draw productivity curves
+    - show what makes revolution
+    - 
 
-# New Economic Model
-    Economic- Keynesian, liberal… growth.  Now to maximize human well being
-    New economic model
-        Shift like… 20th century shifts. keynsiam ism … focus on health and education and gov working with business
-        Reaction against this. (Near liberalism)  Free markets. Freedom individuals. Get governments out of the way
-        New system.. meet basic needs of every human. Live within planetary means. Fairer.  Focus not on growth, but maximizing human well being 
-            
-    Value shift - trigged about new story about how we want to live
-    Limitless growth (planet destroying) becoming less popular with Generation Y/Z
-
-## The Drive for Productivity
-- The drive for Productivity (Faster, cheaper, more efficiently)
+The Drive for Productivity
+- The drive for Productivity (Faster, cheaper, more efficiently) . 
   - get more out of
     - person's effort
     - Company Assets
@@ -206,9 +231,7 @@ North Dakota tops charts for productivity growth: https://www.bls.gov/opub/mlr/2
       - Air B&B.  transportation.  
       - Cars.. expensive assets, that spend most of the day parked.
 
-- Tempered by a new economic model
-  - instead of growth at all costs, maximize human well being
-  - 
+
 
 More productive use of assets/resources
 
@@ -236,17 +259,25 @@ More productive use of assets/resources
       - block chain for energy and commodity trading
  
 
-## 150 Gig Economy Apps...
-  yup, it's real now.
-    - Gig Economy
-      - use to be if a company needed a graphic artist, or an accountant, administrative assistant, designer, or a what ever
-        - hire them
-        - hire a firm that made resources available to the companies
-      - now, gig it... use an accountant when you need an accountant... without firm overhead
-      - need something, get something (Fiver, etc. etc. etc.)
+
+# Key Points
+- Change will happen, and it will happen exponentially faster
+- Manufacturing - need to make real stuff
 
 
+# New Economic Model
+    Economic- Keynesian, liberal… growth.  Now to maximize human well being
+    New economic model
+        Shift like… 20th century shifts. keynsiam ism … focus on health and education and gov working with business
+        Reaction against this. (Near liberalism)  Free markets. Freedom individuals. Get governments out of the way
+        New system.. meet basic needs of every human. Live within planetary means. Fairer.  Focus not on growth, but maximizing human well being 
+            
+    Value shift - trigged about new story about how we want to live
+    Limitless growth (planet destroying) becoming less popular with Generation Y/Z
 
+- Tempered by a new economic model
+  - instead of growth at all costs, maximize human well being
+  - 
 
 
 # Potential Topics
