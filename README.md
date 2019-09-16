@@ -1,10 +1,11 @@
-# DisruptWell Summit
+# DisruptWell
+[DisruptWell Summit](http://disruptwell.com)
 A disruptive technology or innovation is one that goes on to create a new market and value network, disrupting the existing market. This innovation improves a product or service in ways the market does not expect. It’s a shift in how business is done.
 
 Forward Thinking and Thought Provoking Presentations and Discussions on: Workforce Development, 5G, Blockchain, 3D Printing,  Humans & Technology, AI, Cybersecurity, Healthcare & more.
 
-# Outline
-- Intro
+
+# Intro
  - conference about disruptions
  - Look back to project forward.. establish context.
 
@@ -18,39 +19,22 @@ Forward Thinking and Thought Provoking Presentations and Discussions on: Workfor
 
 # Global GDP per capita
  - if we look at at the actual number instead of the improvement rate, the shape of the curve shows a more obvious improvement.
+    - On the average, the world is always improving.
+    - keep in mind when you get depressed with all the negative press.  The reality is the world is becoming a better place every day when you look at the data on things like:
+      - infant mortality rate
+      - average life span
+      - average GDP per capita
+      - number of people in extreme poverty
 
- - On the average, the world is always improving.
-   - keep in mind when you get depressed with all the negative press.  The reality is the world is becoming a better place every day when you look at the data on things like:
-     - infant mortality rate
-     - average life span
-     - average GDP per capita
-     - number of people in extreme poverty
-
-    - enjoy a feel good moment and consider that over the last 60 years, the average quality of life for the average person on this planet has improved substantially!
+      - enjoy a feel good moment and consider that over the last 60 years, the average quality of life for the average person on this planet has improved substantially!
 
  - but I digress... the point i am trying to make is that, while the world continues to get a little better, a litte more productive, a little more efficient every year, every so often, there are disruptions that rapidly increase the rate of improvement.
    - We call these revolutions and we are entering a big one now.
 
-
-# Revolutions
-## 4th Industrial Revolution
+# 4th Industrial Revolution
   - Describe 1-4
   - We are now in 4th industrial Revolution
   -      
-
-- these are magor changes in the global productivity improvement rates.
-- Let's zoom in a little and talk about productivity enhancements over the last few years. 
-  - Let talk about more efficient use of resources.
-# Gig Economy
-
-## 150 Gig Economy Apps...
-  yup, it's real now.
-    - Gig Economy
-      - use to be if a company needed a graphic artist, or an accountant, administrative assistant, designer, or a what ever
-        - hire them
-        - hire a firm that made resources available to the companies
-      - now, gig it... use an accountant when you need an accountant... without firm overhead
-      - need something, get something (Fiver, etc. etc. etc.)
 
 
 # Internet of Things
@@ -201,6 +185,22 @@ What can we do with these technologies?
 
 # .
 #  --------- To be organized ----------------------
+- these are magor changes in the global productivity improvement rates.
+- Let's zoom in a little and talk about productivity enhancements over the last few years. 
+  - Let talk about more efficient use of resources.
+
+# Gig Economy
+## 150 Gig Economy Apps...
+  yup, it's real now.
+    - Gig Economy
+      - use to be if a company needed a graphic artist, or an accountant, administrative assistant, designer, or a what ever
+        - hire them
+        - hire a firm that made resources available to the companies
+      - now, gig it... use an accountant when you need an accountant... without firm overhead
+      - need something, get something (Fiver, etc. etc. etc.)
+
+
+
 North Dakota tops charts for productivity growth: https://www.bls.gov/opub/mlr/2019/article/bls-publishes-experimental-state-level-labor-productivity-measures.htm
 
     - Reason on data, and take action
